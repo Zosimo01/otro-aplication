@@ -1,13 +1,18 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.finaly{
+    width: 100px;
+    border: solid greenyellow;
 }
+.finalys{
+    border: solid rosybrown;
+    width: 100px;
+}
+.listas{
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+    display: flex;
+}
+form{
+    padding-left: 48%;
+}
+input{width: 300px;
+background-color: skyblue;
 }
